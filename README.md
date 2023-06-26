@@ -1,0 +1,2 @@
+# Kaggle-House-Price-Prediction-Top-17-
+This notebook was successful in scoring top 17% rank among more than 8000 participants in the famous "House Price prediction" competition on Kaggle. Each &amp; every process from data loading, missing null values and model building using Catboost Regressor and fine tuning the parameters of model using GridSearch CV is explained and performed in this notebook.
